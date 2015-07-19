@@ -1,0 +1,183 @@
+.navbar {
+	background: rgba(109,199,232,0.80);
+}
+
+.navbar .nav > li > a {
+	color: #F9F7F6;
+}
+
+#homeW {
+	font-family: HelveticaNeue-Bold;
+	font-size: 40px;
+	color: #F9F7F6;
+	line-height: 49px;
+}
+
+.wics_picture {
+	display: block;
+	margin: auto;
+	width: 100%;
+	max-height: 100%;
+	/* OVERLAY WITH BLACK RECTANGLE, 70% OPACITY */
+	/* WRITE "WOMEN IN COMPUTER SCIENCE" ON IMAGE */
+	/* FIX IMAGE SO IT FITS FULL SCREEN */
+}
+
+#about {
+	font-family: HelveticaNeue-Thin;
+	font-size: 30px;
+	color: #FAF5F5;
+	line-height: 36px;
+	padding: 50px;
+	background: #EE6D3B; 
+	border: 1px solid #979797;
+}
+
+#events {
+	font-family: HelveticaNeue-Thin;
+	font-size: 30px;
+	color: #FAF5F5;
+	line-height: 36px;
+	padding: 50px;
+	background: #6DC7E8;
+	border: 1px solid #979797;
+}
+
+iframe {
+	display: block;
+	margin: auto;
+	border: 1px solid #FAF5F5;
+}
+
+#officers {
+	font-family: HelveticaNeue-Thin;
+	font-size: 30px;
+	color: #FAF5F5;
+	line-height: 36px;
+	background: #EF8686;
+	padding: 50px;
+}
+
+.circle {
+	background: #D8D8D8;
+	border: 1px solid #979797;
+	-webkit-border-radius: 50em;
+    -moz-border-radius: 50em;
+    border-radius: 50em;
+    height: 200px;
+    width: 200px;
+}
+
+/* from TexasBoomerangs.org */
+.circle:hover {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    opacity: .5;
+}
+
+.mem {
+    margin: auto;
+    display: block;
+}
+
+.name{
+    text-align: center;
+    padding-top: 10px;
+	font: 2.2em/1.0em 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', Arial, sans-serif;
+}
+
+.position{
+    text-align: center;
+    font: 1.5em/1.0em 'HelveticaNeue-UltraLight', 'Helvetica Neue UltraLight', Arial, sans-serif; 
+}
+
+.members-sect {
+    background-color: #115E67;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 50px;
+}
+
+.mem-row {
+    padding-top: 30px;
+}
+
+.cut-out {
+    -webkit-box-shadow: 0 1px 0 rgba(255,255,255,.2), inset 0 4px 5px rgba(0,0,0,.6), inset 0 1px 0 rgba(0,0,0,.6);
+    -moz-box-shadow: 0 1px 0 rgba(255,255,255,.2), inset 0 4px 5px rgba(0,0,0,.6), inset 0 1px 0 rgba(0,0,0,.6);
+    box-shadow: 0 1px 0 rgba(255,255,255,.2), inset 0 4px 5px rgba(0,0,0,.6), inset 0 1px 0 rgba(0,0,0,.6);
+}
+/*end of TexasBommerangs.org stuff */
+
+#officers .row .col-md-3 .name {
+	font-size: 22px;
+}
+
+#officers .row .col-md-3 .position {
+	font-size: 18px;
+	padding-bottom: 50px;
+}
+
+#sponsors {
+	font-family: HelveticaNeue-Thin;
+	font-size: 30px;
+	color: #FAF5F5;
+	line-height: 36px;
+	background: #EE6D3B; 
+	padding: 50px;
+}
+
+#sponsorThanks {
+	font-family: HelveticaNeue-Thin;
+        font-size: 30px;
+        color: #FAF5F5;
+        line-height: 36px;
+        background: #6DC7E8;
+        padding: 50px;
+}
+
+#sponsorThanks  ul li {
+	text-align: center;
+	list-style-type: none;
+}
+
+
+#contact {
+	font-family: HelveticaNeue-Thin;
+	font-size: 30px;
+	color: #FAF5F5;
+	line-height: 36px;
+	padding: 50px;
+	background: #EF8686;
+}
+
+#contact p {
+	text-align: center;
+	font-size: 28px;
+}
+
+h1 {
+	font-family: HelveticaNeue-Light;
+	font-size: 72px;
+	color: #FFFFFF;
+	line-height: 87px;
+}
+
+h3 {
+	font-family: HelveticaNeue-Light;
+	font-size: 42px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+
+
+
+
+#womeninCS {
+	font-family: HelveticaNeue-Thin;
+	font-size: 100px;
+	color: #FAF5F5;
+	line-height: 121px;
+}
